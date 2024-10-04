@@ -1,0 +1,11 @@
+package testpack;
+
+public class TestPrint {
+
+	public static void main(String[] args)
+	
+	{
+	System.out.println("This is Print Statement 1");
+	}
+
+}
