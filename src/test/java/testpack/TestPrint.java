@@ -6,6 +6,7 @@ public class TestPrint {
 	
 	{
 	System.out.println("This is Print Statement 1");
+	System.out.println("This is Print Statement 2");
 	}
 
 }
